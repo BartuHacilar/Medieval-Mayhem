@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/MainMenuInitial.unity
+    guid: 9c6693b4c2bbcce46b2ff89258fce7c2
+  - enabled: 1
+    path: Assets/Levels/MainMenu.unity
+    guid: 0f5fc073e77cf764fa47bc782ad622b5
+  - enabled: 1
+    path: Assets/Levels/Level1.unity
+    guid: 5e983309007fcb14dabafced543a6d73
+  - enabled: 1
+    path: Assets/Levels/Level2.unity
+    guid: 1d9e69d3061f0694e987000fc4fd6e2b
+  - enabled: 1
+    path: Assets/Levels/Level3.unity
+    guid: 9871f7661910d1a4199d0ca3f4fb39c8
+  - enabled: 1
+    path: Assets/Levels/GraveyardLoad.unity
+    guid: eb87f8a0327360b46ae917b1dc720f92
+  - enabled: 1
+    path: Assets/Levels/ForestLoad.unity
+    guid: 85784c53980a9b04582da9706fbc9426
+  - enabled: 1
+    path: Assets/Levels/CastleLoad.unity
+    guid: af5b5f96f567afa429e4bace59192252
+  - enabled: 1
+    path: Assets/Levels/Wasteland.unity
+    guid: d67aff90a233ad1439638ee92ebac704
+  - enabled: 1
+    path: Assets/Levels/WastelandLoad.unity
+    guid: c610d72b593193d4e90f632b5f865130
+  m_configObjects: {}
